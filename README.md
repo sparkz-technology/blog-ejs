@@ -28,6 +28,4 @@ node app.js
 
 The app will run on `http://localhost:3000/`. You can navigate to different pages using the links on the navbar. You can create a new blog post by clicking on the compose link and filling out the form. You can view a blog post by clicking on its title on the home page.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
